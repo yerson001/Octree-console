@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrsn/WorkSpace/EDALAB/Octree/source/main.cpp
+iostream
+-
+octree.h
+/home/yrsn/WorkSpace/EDALAB/Octree/source/octree.h
+point.h
+/home/yrsn/WorkSpace/EDALAB/Octree/source/point.h
+
+/home/yrsn/WorkSpace/EDALAB/Octree/source/octree.h
+iostream
+-
+point.h
+/home/yrsn/WorkSpace/EDALAB/Octree/source/point.h
+vector
+-
+
+/home/yrsn/WorkSpace/EDALAB/Octree/source/point.h
+
