@@ -2,7 +2,7 @@
 compilar
 
 cd Octree-console/build
-![console]()
+![console](https://github.com/yerson001/Octree-console/blob/master/console.PNG)
 ~~~
 $ cmake --build .
 $ ./octree
