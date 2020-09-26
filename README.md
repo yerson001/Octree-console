@@ -2,6 +2,7 @@
 compilar
 
 cd Octree-console/build
+![console]()
 ~~~
 $ cmake --build .
 $ ./octree
